@@ -1,6 +1,6 @@
 # LeetCode-75-CPP
 A repository dedicated to solving the LeetCode 75 study plan, committing to 2 problems daily to reinforce fundamental data structures and algorithms.
-## 📈 Progress Update (Completed 24/75 Problems)
+## 📈 Progress Update (Completed 28/75 Problems)
 
 | Section | Problem # | Title | Link | Solution | Complexity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -28,3 +28,7 @@ A repository dedicated to solving the LeetCode 75 study plan, committing to 2 pr
 | **Hash Map / Set** | 1657 | Determine if Two Strings Are Close | [LC Link](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++ Solution](5-Hash-Map-Set/1657-Determine-if-Two-Strings-Are-Close.cpp) | O(N), O(1) |
 | **Hash Map / Set** | 2352 | Equal Row and Column Pairs | [LC Link](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++ Solution](5-Hash-Map-Set/2352-Equal-Row-and-Column-Pairs.cpp) | O(N^3), O(N^2) |
 | **Stack** | 2390 | Removing Stars From a String | [LC Link](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++ Solution](6-Stack/2390-Removing-Stars-From-a-String.cpp) | O(N), O(1) |
+| **Stack** | 735 | Asteroid Collision | [LC Link](https://leetcode.com/problems/asteroid-collision/) | [C++ Solution](6-Stack/735-Asteroid-Collision.cpp) | O(N), O(N) |
+| **Stack** | 394 | Decode String | [LC Link](https://leetcode.com/problems/decode-string/) | [C++ Solution](6-Stack/394-Decode-String.cpp) | O(Total Length), O(Depth) |
+| **Queue** | 933 | Number of Recent Calls | [LC Link](https://leetcode.com/problems/number-of-recent-calls/) | [C++ Solution](7-Queue/933-Number-of-Recent-Calls.cpp) | O(1) amortized, O(W) |
+| **Queue** | 649 | Dota2 Senate | [LC Link](https://leetcode.com/problems/dota2-senate/) | [C++ Solution](7-Queue/649-Dota2-Senate.cpp) | O(N), O(N) |
