@@ -32,3 +32,7 @@ A repository dedicated to solving the LeetCode 75 study plan, committing to 2 pr
 | **Stack** | 394 | Decode String | [LC Link](https://leetcode.com/problems/decode-string/) | [C++ Solution](6-Stack/394-Decode-String.cpp) | O(Total Length), O(Depth) |
 | **Queue** | 933 | Number of Recent Calls | [LC Link](https://leetcode.com/problems/number-of-recent-calls/) | [C++ Solution](7-Queue/933-Number-of-Recent-Calls.cpp) | O(1) amortized, O(W) |
 | **Queue** | 649 | Dota2 Senate | [LC Link](https://leetcode.com/problems/dota2-senate/) | [C++ Solution](7-Queue/649-Dota2-Senate.cpp) | O(N), O(N) |
+| **Linked List** | 2095 | Delete the Middle Node | [LC Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++ Solution](8-Linked-List/2095-Delete-the-Middle-Node-of-a-Linked-List.cpp) | O(N), O(1) |
+| **Linked List** | 328 | Odd Even Linked List | [LC Link](https://leetcode.com/problems/odd-even-linked-list/) | [C++ Solution](8-Linked-List/328-Odd-Even-Linked-List.cpp) | O(N), O(1) |
+| **Linked List** | 206 | Reverse Linked List | [LC Link](https://leetcode.com/problems/reverse-linked-list/) | [C++ Solution](8-Linked-List/206-Reverse-Linked-List.cpp) | O(N), O(1) |
+| **Linked List** | 2130 | Max Twin Sum of a Linked List | [LC Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++ Solution](8-Linked-List/2130-Maximum-Twin-Sum-of-a-Linked-List.cpp) | O(N), O(N) |
