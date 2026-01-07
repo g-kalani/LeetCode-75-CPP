@@ -1,6 +1,6 @@
 # LeetCode-75-CPP
 A repository dedicated to solving the LeetCode 75 study plan, committing to 2 problems daily to reinforce fundamental data structures and algorithms.
-## 📈 Progress Update (Completed 28/75 Problems)
+## 📈 Progress Update (Completed 42/75 Problems)
 
 | Section | Problem # | Title | Link | Solution | Complexity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -36,3 +36,13 @@ A repository dedicated to solving the LeetCode 75 study plan, committing to 2 pr
 | **Linked List** | 328 | Odd Even Linked List | [LC Link](https://leetcode.com/problems/odd-even-linked-list/) | [C++ Solution](8-Linked-List/328-Odd-Even-Linked-List.cpp) | O(N), O(1) |
 | **Linked List** | 206 | Reverse Linked List | [LC Link](https://leetcode.com/problems/reverse-linked-list/) | [C++ Solution](8-Linked-List/206-Reverse-Linked-List.cpp) | O(N), O(1) |
 | **Linked List** | 2130 | Max Twin Sum of a Linked List | [LC Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++ Solution](8-Linked-List/2130-Maximum-Twin-Sum-of-a-Linked-List.cpp) | O(N), O(N) |
+| **Binary Tree - DFS** | 104 | Maximum Depth of Binary Tree | [LC Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++ Solution](9-Binary-Tree-DFS/104-Maximum-Depth-of-Binary-Tree.cpp) | O(N), O(H) |
+| **Binary Tree - DFS** | 872 | Leaf-Similar Trees | [LC Link](https://leetcode.com/problems/leaf-similar-trees/) | [C++ Solution](9-Binary-Tree-DFS/872-Leaf-Similar-Trees.cpp) | O(N+M), O(L+H) |
+| **Binary Tree - DFS** | 1448 | Count Good Nodes in Binary Tree | [LC Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [C++ Solution](9-Binary-Tree-DFS/1448-Count-Good-Nodes-in-Binary-Tree.cpp) | O(N), O(H) |
+| **Binary Tree - DFS** | 437 | Path Sum III | [LC Link](https://leetcode.com/problems/path-sum-iii/) | [C++ Solution](9-Binary-Tree-DFS/437-Path-Sum-III.cpp) | O(N^2), O(H) |
+| **Binary Tree - DFS** | 1372 | Longest ZigZag Path | [LC Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [C++ Solution](9-Binary-Tree-DFS/1372-Longest-ZigZag-Path-in-a-Binary-Tree.cpp) | O(N), O(H) |
+| **Binary Tree - DFS** | 236 | Lowest Common Ancestor | [LC Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++ Solution](9-Binary-Tree-DFS/236-Lowest-Common-Ancestor-of-a-Binary-Tree.cpp) | O(N), O(H) |
+| **Binary Tree - BFS** | 199 | Binary Tree Right Side View | [LC Link](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++ Solution](10-Binary-Tree-BFS/199-Binary-Tree-Right-Side-View.cpp.cpp) | O(N), O(W) |
+| **Binary Tree - BFS** | 1161 | Max Level Sum of a Binary Tree | [LC Link](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [C++ Solution](10-Binary-Tree-BFS/1161-Maximum-Level-Sum-of-a-Binary-Tree.cpp) | O(N), O(W) |
+| **Binary Search Tree** | 700 | Search in a Binary Search Tree | [LC Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++ Solution](11-Binary-Search-Tree/700-Search-in-a-Binary-Search-Tree.cpp) | O(H), O(H) |
+| **Binary Search Tree** | 450 | Delete Node in a BST | [LC Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++ Solution](11-Binary-Search-Tree/450-Delete-Node-in-a-BST.cpp) | O(H), O(H) |
