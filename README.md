@@ -1,6 +1,6 @@
 # LeetCode-75-CPP
 A repository dedicated to solving the LeetCode 75 study plan, committing to 2 problems daily to reinforce fundamental data structures and algorithms.
-## 📈 Progress Update (Completed 42/75 Problems)
+## 📈 Progress Update (Completed 54/75 Problems)
 
 | Section | Problem # | Title | Link | Solution | Complexity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -46,3 +46,15 @@ A repository dedicated to solving the LeetCode 75 study plan, committing to 2 pr
 | **Binary Tree - BFS** | 1161 | Max Level Sum of a Binary Tree | [LC Link](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [C++ Solution](10-Binary-Tree-BFS/1161-Maximum-Level-Sum-of-a-Binary-Tree.cpp) | O(N), O(W) |
 | **Binary Search Tree** | 700 | Search in a Binary Search Tree | [LC Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++ Solution](11-Binary-Search-Tree/700-Search-in-a-Binary-Search-Tree.cpp) | O(H), O(H) |
 | **Binary Search Tree** | 450 | Delete Node in a BST | [LC Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++ Solution](11-Binary-Search-Tree/450-Delete-Node-in-a-BST.cpp) | O(H), O(H) |
+| **Graphs - DFS** | 841 | Keys and Rooms | [LC Link](https://leetcode.com/problems/keys-and-rooms/) | [C++ Solution](12-Graphs-DFS/841-Keys-and-Rooms.cpp) | O(N+K), O(N) |
+| **Graphs - DFS** | 547 | Number of Provinces | [LC Link](https://leetcode.com/problems/number-of-provinces/) | [C++ Solution](12-Graphs-DFS/547-Number-of-Provinces.cpp) | O(N^2), O(N^2) |
+| **Graphs - DFS** | 1466 | Reorder Routes to Lead to City Zero | [LC Link](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++ Solution](12-Graphs-DFS/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.cpp) | O(N), O(N) |
+| **Graphs - DFS** | 399 | Evaluate Division | [LC Link](https://leetcode.com/problems/evaluate-division/) | [C++ Solution](12-Graphs-DFS/399-Evaluate-Division.cpp) | O(M*N), O(N) |
+| **Graphs - BFS** | 1926 | Nearest Exit from Entrance in Maze | [LC Link](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++ Solution](13-Graphs-BFS/1926-Nearest-Exit-from-Entrance-in-Maze.cpp) | O(M*N), O(M*N) |
+| **Graphs - BFS** | 994 | Rotting Oranges | [LC Link](https://leetcode.com/problems/rotting-oranges/) | [C++ Solution](13-Graphs-BFS/994-Rotting-Oranges.cpp) | O(M*N), O(M*N) |
+| **Heap / Priority Queue** | 215 | Kth Largest Element in an Array | [LC Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++ Solution](14-Heap-Priority-Queue/215-Kth-Largest-Element-in-an-Array.cpp) | O(N log K), O(K) |
+| **Heap / Priority Queue** | 2336 | Smallest Number in Infinite Set | [LC Link](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [C++ Solution](14-Heap-Priority-Queue/2336-Smallest-Number-in-Infinite-Set.cpp) | O(log M), O(M) |
+| **Heap / Priority Queue** | 2542 | Maximum Subsequence Score | [LC Link](https://leetcode.com/problems/maximum-subsequence-score/) | [C++ Solution](14-Heap-Priority-Queue/2542-Maximum-Subsequence-Score.cpp) | O(N log N), O(N) |
+| **Heap / Priority Queue** | 2462 | Total Cost to Hire K Workers | [LC Link](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [C++ Solution](14-Heap-Priority-Queue/2462-Total-Cost-to-Hire-K-Workers.cpp) | O(K log C), O(C) |
+| **Binary Search** | 374 | Guess Number Higher or Lower | [LC Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++ Solution](15-Binary-Search/374-Guess-Number-Higher-or-Lower.cpp) | O(log N), O(1) |
+| **Binary Search** | 2300 | Successful Pairs of Spells | [LC Link](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [C++ Solution](15-Binary-Search/2300-Successful-Pairs-of-Spells-and-Potions.cpp) | O(M log M + N log M), O(1) |
